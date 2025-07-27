@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <main>
       <h1>My Awesome App</h1>
+      <Button>Click Me!</Button>
     </main>
   );
 }
